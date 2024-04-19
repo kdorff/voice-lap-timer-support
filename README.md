@@ -32,6 +32,7 @@ This app currently free to use. But it takes time and effort to write and mainta
 
 | Date       | Version | Change                                |
 | ---------- | ------- | ------------------------------------- |
+| 2024-04-19 | v0.1.6  | Better non-compat page. Update readme. |
 | 2024-04-19 | v0.1.5  | Link to support.                      |
 | 2024-04-18 | v0.1.4  | Button text. Add version number.      |
 | 2024-04-17 | v0.1.3  | Add vercel analytics.                 |
