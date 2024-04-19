@@ -3,7 +3,6 @@ Support for [http://voice-lap-timer.vercel.app](http://voice-lap-timer.vercel.ap
 
 Questions or suggestions? Please open a request in [issues](https://github.com/kdorff/voice-lap-timer-support/issues).
 
-
 # voice-lap-timer
 
 Visit [http://voice-lap-timer.vercel.app](http://voice-lap-timer.vercel.app) to use **voice-lap-timer**.
@@ -23,6 +22,16 @@ During a lap you can say **bad**, **clean**, or **battery** and it will mark tha
 
 You can change the voice commands to use words that work best for you. The updated commands should be rememberd between sessions using browser "local storage."
 
+# How to support the author
+
+This app currently free to use. But it takes time and effort to write and maintain.
+
+[Buy me a coffee!!](https://buymeacoffee.com/dorffmeister)
+
 # Browser Support
 
 **This code currently only works Chrome-based browsers**. See the discussion about supported browsers within [react-speech-recognition-es's README.md](https://github.com/tianjianchn/react-speech-recognition) to learn about using this with other browsers.
+
+# Is the source code available?
+
+At this time, [voice-lap-timer](http://voice-lap-timer.vercel.app) is closed source.
