@@ -12,7 +12,7 @@ Visit [http://voice-lap-timer.vercel.app](http://voice-lap-timer.vercel.app) to 
 Once the app is running, click <img src="start-listening.png" width="10%" alt="Start Listening">. It will then recognize the commands as documented on the page.
 
 # Commands In short
-Every time you cross the "Start Gate" say the word "done". At that point, it will tell you how long the previous lap took.
+Every time you cross the "Start Gate" say the **Complete a lap** word, which defaults to `done`. At time you complete a lap, `voice-lap-timer` will speak the most recent lap time.
 
 During a lap you can say **bad**, **clean**, or **battery** and it will mark that lap with this specified type.
 
@@ -32,7 +32,8 @@ This app currently free to use. But it takes time and effort to write and mainta
 
 | Date       | Version | Change                                |
 | ---------- | ------- | ------------------------------------- |
-| 2024-04-18 | v0.1.4  | Button text. Add version              |
+| 2024-04-19 | v0.1.5  | Link to support.                      |
+| 2024-04-18 | v0.1.4  | Button text. Add version number.      |
 | 2024-04-17 | v0.1.3  | Add vercel analytics.                 |
 | 2024-04-16 | v0.1.2  | BMC link.                             |
 | 2024-04-16 | v0.1.1  | Change defualt commands. Formatting.  |
