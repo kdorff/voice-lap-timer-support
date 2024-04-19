@@ -44,7 +44,7 @@ This app currently free to use. But it takes time and effort to write and mainta
 | 2024-04-11 |         | Store custom commands in local strage |
 | 2024-04-04 |         | Add icon                              |
 
-# Browser Support
+# Browser Compatibility
 
 - **This code only works Chrome-based browsers**.
 - Chrome on Mac is my daily driver and will be the best tested.
