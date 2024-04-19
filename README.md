@@ -48,11 +48,11 @@ This app currently free to use. But it takes time and effort to write and mainta
 
 - **This code only works Chrome-based browsers**.
 - Chrome on Mac is my daily driver and will be the best tested.
-- Chrome on Anroid (on my current Pixel phone) stops listening after one command.
 - I've tested with Chrome and Safari on Mac.
 - I've tested with Chrome on Windows.
-- Chrome on iPad works but the spoken lap time is stuttery. Colors are odd.
-- Safari on iPad works but the spoken lap time is stuttery. Colors are odd.
+- Chrome on Anroid (on my current Pixel phone) stops listening after one command. Colors are wrong on all mobile.
+- Chrome on iPad works but the spoken lap time is stuttery. Colors are wrong on all mobile.
+- Safari on iPad works but the spoken lap time is stuttery. Colors are wrong on all mobile.
 
 Learn more at [Web_Speech_API browser compatibility](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API#browser_compatibility).
 
