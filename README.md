@@ -46,7 +46,15 @@ This app currently free to use. But it takes time and effort to write and mainta
 
 # Browser Support
 
-**This code currently only works Chrome-based browsers**. See the discussion about supported browsers within [react-speech-recognition-es's README.md](https://github.com/tianjianchn/react-speech-recognition) to learn about using this with other browsers.
+- **This code only works Chrome-based browsers**.
+- Chrome on Mac is my daily driver and will be the best tested.
+- Chrome on Anroid (on my current Pixel phone) stops listening after one command.
+- I've tested with Chrome and Safari on Mac.
+- I've tested with Chrome on Windows.
+- Chrome on iPad works but the spoken lap time is stuttery. Colors are odd.
+- Safari on iPad works but the spoken lap time is stuttery. Colors are odd.
+
+Learn more at [Web_Speech_API browser compatibility](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API#browser_compatibility).
 
 # Is the source code available?
 
