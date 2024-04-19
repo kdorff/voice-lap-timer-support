@@ -7,7 +7,7 @@ Questions or suggestions? Please open a request in [issues](https://github.com/k
 
 Visit [http://voice-lap-timer.vercel.app](http://voice-lap-timer.vercel.app) to use **voice-lap-timer**.
 
-<img src="screenshot-2024-04-19.png" alt="voice-lap-timer" width="50%">
+<img src="screenshot-2024-04-19b.png" alt="voice-lap-timer" width="50%">
 
 Once the app is running, click <img src="start-listening.png" width="10%" alt="Start Listening">. It will then recognize the commands as documented on the page.
 
