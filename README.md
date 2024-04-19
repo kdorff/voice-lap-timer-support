@@ -50,4 +50,4 @@ This app currently free to use. But it takes time and effort to write and mainta
 
 # Is the source code available?
 
-At this time, [voice-lap-timer](http://voice-lap-timer.vercel.app) is closed source.
+At this time, [voice-lap-timer](http://voice-lap-timer.vercel.app) is closed source. Feel free to contact me with questions.
