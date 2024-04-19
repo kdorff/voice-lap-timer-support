@@ -24,7 +24,7 @@ You can change the voice commands to use words that work best for you. The updat
 
 # How to support the author
 
-This app currently free to use. But it takes time and effort to write and maintain.
+This app currently free to use. But it takes time and effort to write and maintain. Click the **Buy me a coffee** link to help support my work.
 
 [<img src="bmc-brand-logo.svg" alt="voice-lap-timer" width="20%">](https://buymeacoffee.com/dorffmeister)
 
