@@ -7,7 +7,7 @@ Questions or suggestions? Please open a request in [issues](https://github.com/k
 
 Visit [http://voice-lap-timer.vercel.app](http://voice-lap-timer.vercel.app) to use **voice-lap-timer**.
 
-<img src="screenshot.png" alt="voice-lap-timer" width="50%">
+<img src="screenshot.png" alt="voice-lap-timer" width="60%">
 
 Once the app is running, click **Start Listening**. It will then recognize the commands as documented on the page.
 
@@ -26,7 +26,7 @@ You can change the voice commands to use words that work best for you. The updat
 
 This app currently free to use. But it takes time and effort to write and maintain.
 
-[Buy me a coffee!!](https://buymeacoffee.com/dorffmeister)
+[<img src="bmc-brand-logo.svg" alt="voice-lap-timer" width="20%">](https://buymeacoffee.com/dorffmeister)
 
 # Version history
 
