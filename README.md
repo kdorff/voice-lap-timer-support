@@ -9,7 +9,7 @@ Visit [http://voice-lap-timer.vercel.app](http://voice-lap-timer.vercel.app) to 
 
 <img src="screenshot.png" alt="voice-lap-timer" width="60%">
 
-Once the app is running, click **Start Listening**. It will then recognize the commands as documented on the page.
+Once the app is running, click <img src="start-listening.png" width="10%" alt="Start Listening">. It will then recognize the commands as documented on the page.
 
 # Commands In short
 Every time you cross the "Start Gate" say the word "done". At that point, it will tell you how long the previous lap took.
