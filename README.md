@@ -30,20 +30,22 @@ This app currently free to use. But it takes time and effort to write and mainta
 
 # Version history
 
-| Date       | Version | Change                                |
-| ---------- | ------- | ------------------------------------- |
-| 2024-04-19 | v0.1.6  | Better non-compat page. Update readme. |
-| 2024-04-19 | v0.1.5  | Link to support.                      |
-| 2024-04-18 | v0.1.4  | Button text. Add version number.      |
-| 2024-04-17 | v0.1.3  | Add vercel analytics.                 |
-| 2024-04-16 | v0.1.2  | BMC link.                             |
-| 2024-04-16 | v0.1.1  | Change defualt commands. Formatting.  |
-| 2024-04-15 | v0.1.0  | Report times with one demcial point   |
-| 2024-04-14 |         | Change sound effects library          |
-| 2024-04-14 |         | Lowercase what was heard for accuracy |
-| 2024-04-13 |         | Use signals instead of state          |
-| 2024-04-11 |         | Store custom commands in local strage |
-| 2024-04-04 |         | Add icon                              |
+| Date       | Version | Change                                  |
+| ---------- | ------- | --------------------------------------- |
+| 2024-04-23 | v0.1.7  | Better force of light mode. Formatting. |
+| 2024-04-19 | v0.1.6  | Better non-compat page. Update readme.  |
+| 2024-04-19 | v0.1.5  | Link to support.                        |
+| 2024-04-18 | v0.1.4  | Button text. Add version number.        |
+| 2024-04-17 | v0.1.3  | Add vercel analytics.                   |
+| 2024-04-16 | v0.1.2  | BMC link.                               |
+| 2024-04-16 | v0.1.1  | Change defualt commands. Formatting.    |
+| 2024-04-15 | v0.1.0  | Report times with one demcial point     |
+| 2024-04-14 |         | Change sound effects library            |
+| 2024-04-14 |         | Lowercase what was heard for accuracy   |
+| 2024-04-13 |         | Use signals instead of state            |
+| 2024-04-11 |         | Store custom commands in local strage   |
+| 2024-04-04 |         | Add icon                                |
+
 
 # Browser Compatibility
 
